@@ -1,0 +1,7 @@
+body {
+  color: rgb(39, 39, 39);
+  margin: 15px;
+}
+.textarea {
+  height: 50vh !important;
+}
